@@ -1,13 +1,13 @@
 # ----------------------------------------------------------------
-# Práctica 6: AES
+# Práctica 7: Modos de cifrado en bloque
 # Asignatura: Seguridad en Sistemas Informáticos
-# Fecha de entrega: 07/04/2022
+# Fecha de entrega: 20/04/2022
 # Autor:
 # - Adrián González Galván
 # - alu0101321219@ull.edu.es
 # ----------------------------------------------------------------
 # En este fichero se incluye el desarrollo de las funciones
-# implementadas enla práctica.
+# implementadas en la práctica.
 # ----------------------------------------------------------------
 
 import os
